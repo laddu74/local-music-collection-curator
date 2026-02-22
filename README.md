@@ -2,6 +2,11 @@
 
 A Python Qt application for filtering, selecting, and moving favorite music albums from a large collection to a pendrive or mounted location.
 
+## Screenshots
+
+![Main Window Placeholder](screenshots/main-window.png)
+*Application Main Window*
+
 ## Features
 
 - **Album Scanning**: Scan large music directories and extract album metadata
