@@ -4,8 +4,14 @@ A Python Qt application for filtering, selecting, and moving favorite music albu
 
 ## Screenshots
 
-![Main Window Placeholder](screenshots/main-window.png)
-*Application Main Window*
+### Main Window
+![Main Window](screenshots/main-default.png)
+
+### Viewing Songs Metadata
+![Songs Metadata](screenshots/songs-meta.png)
+
+### Filtering Favorites
+![Favorites Only](screenshots/show-favorites.png)
 
 ## Features
 
